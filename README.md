@@ -16,6 +16,9 @@ Step-4: Pass the value for number of iterations and print the numbers.
 
 Step-5: End the program.
 
+## NAME: RAJA RITHIKA
+## REG NO: 230500029
+
 ## PROGRAM:
 ```
 #include <stdio.h> 
